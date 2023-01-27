@@ -2,8 +2,7 @@
 
 # DENNIS EVERY
 - React, JavaScript, Ruby on Rails
-- Full-stack software developer
-- Father
+- Full-stack Software Developer
 
 <!--
 **dennis-every/dennis-every** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
