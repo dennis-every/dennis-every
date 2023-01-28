@@ -70,7 +70,9 @@
 
   <img align="left" alt="Angular" height= "50px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 
-</div><br>
+</div>  
+
+<br><br>
 
 #### DATABASES
 
