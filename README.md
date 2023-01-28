@@ -27,12 +27,12 @@
 <div style="display: flex; width: 100%;">
   <span>
     <a href="https://www.twitter.com/dennis_every">
-      <img height="50px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+      <img height="50px" style="margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
     </a>
   </span>  
   <span>
     <a href="https://linkedin.com/in/dennis-every">
-      <img height="50px" style="margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+      <img height="50px" style="margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
   </span>
 </div>
