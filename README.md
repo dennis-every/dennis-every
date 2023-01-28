@@ -35,9 +35,7 @@
       <img align="left" height="50px" style="margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>
   </span>
-</div>
-
-
+</div>  
 
 #### LANGUAGES
 
