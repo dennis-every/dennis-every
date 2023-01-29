@@ -126,12 +126,12 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&count_private=true&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&theme=radical&count_private=true&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&count_private=true&show_icons=true"
+    srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&theme=radical&count_private=true&show_icons=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&count_private=true&show_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&theme=radical&count_private=true&show_icons=true" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
 </picture>
