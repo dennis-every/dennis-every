@@ -69,7 +69,7 @@
 
 </div>
 
-<br><br><br>
+<br><br><br><br>
 
 #### DATABASES
 
@@ -82,7 +82,7 @@
   <img align="left" alt="sqlite" style="margin-right:20px;"  height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
 </div>  
-<br><br><br>
+<br><br><br><br>
 
 #### TESTING
 
@@ -92,7 +92,8 @@
 
   <img align="left" alt="jest" style="margin-right:20px;"  height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
             
-</div><br>
+</div>  
+<br><br><br><br>
 
 #### TOOLS & OTHERS
 
