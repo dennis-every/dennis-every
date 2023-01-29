@@ -103,6 +103,8 @@
 
   <img align="left" alt="github" style="background:#fff;border-radius:5px;margin-right:20px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+  <img align="left" alt="github" style="background:#fff;border-radius:5px;margin-right:20px;" height="60px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
   <img align="left" alt="bash" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
   <img align="left" alt="unix" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
@@ -113,9 +115,9 @@
 #### SERVERS & DEVOPS
 
 <div style="display: flex; width: 100%;">
-  <img align="left" alt="aws" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="left" alt="aws" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 
-  <img align="left" alt="azure" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="left" alt="azure" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
 
   <img align="left" alt="digitalocean" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" />
 
