@@ -126,7 +126,7 @@
 
 <picture>
   <source 
-    srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&theme=radical&count_private=true&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&theme=radical&count_private=true&show_icons=true&theme=radical"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
