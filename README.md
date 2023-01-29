@@ -124,8 +124,6 @@
 
 <!------------------------------ My GitHub Stats ------------------------------>
 
-<h2><i>Dennis Every's GitHub Stats</i></h2>
-
 <picture>
   <source 
     srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&show_icons=true&theme=dark"
