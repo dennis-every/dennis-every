@@ -121,3 +121,5 @@
   <img align="left" alt="heroku" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
 </div>  
 <br><br><br><br>
+
+<img alt="Dennis Every's Github Stats" src="https://github-readme-stats-dennis-every.vercel.app/"/>
