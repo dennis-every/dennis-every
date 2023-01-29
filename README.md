@@ -101,11 +101,9 @@
 
   <img align="left" alt="git" style="margin-right:20px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-  <img align="left" alt="github" style="background:#fff;border-radius:5px;margin-right:20px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="github" style="background:#fff;border-radius:5px;margin-right:20px;" height="60px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 
-  <img align="left" alt="github" style="background:#fff;border-radius:5px;margin-right:20px;" height="60px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
-  <img align="left" alt="bash" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="left" alt="bash" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
   <img align="left" alt="unix" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
           
