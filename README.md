@@ -1,7 +1,5 @@
 ### Hello, I'm Dennis 👋
 
-<br>
-
 # DENNIS EVERY
 
 <div style="display: flex; width: 100%; flex-direction: column; flex-wrap: wrap;">
