@@ -1,6 +1,3 @@
-<head>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">    
-</head>
 ### Hello, I'm Dennis 👋
 
 <br>
@@ -56,7 +53,7 @@
 
   <img align="left" alt="sass" width="50px" style="border-radius:5px;margin:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
-</div>  
+</div>
 
 <br><br><br><br>
 
@@ -70,7 +67,7 @@
 
   <img align="left" alt="Angular" height= "50px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
 
-</div>  
+</div>
 
 <br><br><br>
 
@@ -82,11 +79,10 @@
 
   <img align="left" alt="Mysql" height= "60px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-  <img align="left" alt="sqlite" style="background:#fff; border-radius:5px; margin-right:20px;"  height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-
   <img align="left" alt="sqlite" style="margin-right:20px;"  height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
-</div><br>
+</div>  
+<br><br><br>
 
 #### TESTING
 
