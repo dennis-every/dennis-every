@@ -124,7 +124,7 @@
 
 <!------------------------------ My GitHub Stats ------------------------------>
 
-<h2><i>GitHub Stats</i></h2>
+<h2><i>Dennis Every's GitHub Stats</i></h2>
 
 <picture>
   <source 
