@@ -105,7 +105,8 @@
 
   <img align="left" alt="bash" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
-  <img align="left" alt="unix" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
+  <img align="left" alt="ubuntu" style="margin-right:20px; background:#fff;border-radius:5px;" height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+          
           
 </div>  
 <br><br><br><br>
