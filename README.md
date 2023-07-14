@@ -5,7 +5,8 @@
 - 😀 Pronouns: He/Him
 - ⚡️ “Slow is smooth, and smooth is fast”
 - 🚀 Open to remote opportunities
-- <picture>
+
+<picture>
   <source 
     srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&count_private=true&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
