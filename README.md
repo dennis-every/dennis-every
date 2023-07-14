@@ -15,7 +15,6 @@
   />
   <img src="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&count_private=true&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
 </picture>
-<br />
 <picture>
   <source 
     srcset="https://github-readme-stats-dennis-every.vercel.app/api/top-langs/?username=dennis-every&show_icons=true&theme=dracula"
