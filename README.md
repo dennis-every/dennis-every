@@ -17,13 +17,13 @@
 </picture>
 <picture>
   <source 
-    srcset="https://github-readme-stats-dennis-every.vercel.app/api/top-langs/?username=dennis-every&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats-dennis-every.vercel.app/api/top-langs/?username=dennis-every&show_icons=true&theme=dracula&layout=compact"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats-dennis-every.vercel.app/api/top-langs/?username=dennis-every&show_icons=true&theme=dracula"
+    srcset="https://github-readme-stats-dennis-every.vercel.app/api/top-langs/?username=dennis-every&show_icons=true&theme=dracula&layout=compact"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-dennis-every.vercel.app/api/top-langs/?username=dennis-every&show_icons=true&theme=dracula" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats-dennis-every.vercel.app/api/top-langs/?username=dennis-every&show_icons=true&theme=dracula&layout=compact" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
 </picture>
 
