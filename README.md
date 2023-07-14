@@ -4,7 +4,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dennis-every/), [Twitter](https://twitter.com/dennis_every)
 - 😀 Pronouns: He/Him
 - ⚡️ “Slow is smooth, and smooth is fast”
-<picture>
+- 🚀 Open to remote opportunities
+- <picture>
   <source 
     srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&count_private=true&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
