@@ -3,7 +3,7 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dennis-every/), [Twitter](https://twitter.com/dennis_every)
 - 😀 Pronouns: He/Him
-- ⚡️ Fun fact: “Simplicity is a prerequisite for reliability.” - Edsger W. Dijkstra
+- ⚡️ “Slow is smooth, and smooth is fast”
 <picture>
   <source 
     srcset="https://github-readme-stats-dennis-every.vercel.app/api?username=dennis-every&count_private=true&show_icons=true&theme=dracula"
